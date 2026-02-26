@@ -3,6 +3,14 @@
   "version": "0.1.0",
   "private": true,
   "description": "",
+  "homepage": "https://github.com/Cyberninja30/IndidriftX_Portfolio#readme",
+  "bugs": {
+    "url": "https://github.com/Cyberninja30/IndidriftX_Portfolio/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cyberninja30/IndidriftX_Portfolio.git"
+  },
   "license": "ISC",
   "author": "",
   "type": "module",
